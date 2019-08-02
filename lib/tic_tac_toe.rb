@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 WIN_COMBINATIONS = [
   [0,1,2],
   [3,4,5],
@@ -116,7 +115,7 @@ end
     puts "Cat's Game!"
   end
 end
-=======
+
 WIN_COMBINATIONS = [
   [0,1,2],
   [3,4,5],
@@ -238,4 +237,4 @@ def over?(board)
       "O"
     end
   end
->>>>>>> 33e5ef699074bbf0da0d9decba628fae87fbbe55
+
